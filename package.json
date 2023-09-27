@@ -2,7 +2,7 @@
   "name": "mi-proyecto-npm",
   "version": "0.0.0",
   "description": "Proyecto didáctico para aprender sobre NPM",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
